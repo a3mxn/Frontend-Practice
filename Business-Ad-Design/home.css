@@ -1,0 +1,70 @@
+body{
+    background: hsl(233, 47%, 7%);
+    font-size: 15px;
+}
+.container{
+    /* margin: 15vh; */
+    height: 97vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.subc{
+    background: hsl(244, 38%, 16%);
+    /* background: wheat; */
+    height: 55vh;
+    width:35vw;
+}
+.c1{
+    font-family: 'Inter';
+    /* font-weight:; */
+    font-weight: 700;
+    font-size: 30px;
+    color: white;
+    /* border:2px white solid; */
+}
+.c11 {
+    padding: 5px 20px;
+    margin: 30px 15px;
+}
+.c11 f1{
+    color: hsl(232, 43%, 46%);
+}
+.c12{
+    padding:5px 20px;
+    margin: 40px 15px;
+    font-size: 15px;
+    /* font-family: 'Inter', sans-serif; */
+    font-family: 'Lexend Deca', sans-serif;
+}
+.c13{
+    padding:5px 20px;
+    margin:20px 15px;
+    /* font-size: 25px; */
+}
+.c13 p1{
+    font-size: 22px;
+}
+.c13{
+    margin-top: 50px;
+    display: flex;
+}
+.sub{
+    height: 10vh;
+    width: 30vw;
+    /* border: solid yellow 1px; */
+}
+.heading{
+    font-size: 25px;
+    margin-bottom: 2px;
+}
+.small{
+    font-size:10px;
+    font-family: 'Lexend Deca', sans-serif;
+
+}
+.c2 img{
+    height:inherit;
+    width:inherit;
+}
